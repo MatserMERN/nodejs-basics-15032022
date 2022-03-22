@@ -5,13 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon modules/3.third-party.js",
+    "start": "nodemon StudentMongoAPI.js",
     "dev-start": "nodemon 2.local.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.3",
     "mongoose": "^6.2.7"
   },

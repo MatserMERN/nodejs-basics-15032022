@@ -21,7 +21,13 @@ https://sequelize.org/v7/manual/getting-started.html
 
 MongoDB ORM 
 -----------
-https://mongoosejs.com/
+https://mongoosejs.com/docs/guide.html
+
+MongoDB tutorials
+-------------------
+
+https://www.tutorialspoint.com/mongodb/mongodb_drop_database.htm
+
 
 SQL Server NodeJS Connectivity Issues
 -------------------------------------
